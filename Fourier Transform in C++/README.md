@@ -56,7 +56,7 @@ This project visualizes the Fourier series in action using **Raylib**. The simul
 ---
 
 ## Screenshot
-![screenshot](ss5.png)
+![screenshot](../ss5.PNG)
 
 ## License
 
